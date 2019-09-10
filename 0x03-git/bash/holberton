@@ -1,6 +1,3 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "Holberton School"
-=======
-echo "Holberton School"
->>>>>>> update_script
+echo "Holberton School is open"
